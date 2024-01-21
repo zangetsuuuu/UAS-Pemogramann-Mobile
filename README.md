@@ -19,7 +19,7 @@
 
 ### Pdf
 
-> <a href="https://drive.google.com/file/d/1_3OoqmrL6cx5-1rj8CkpQKrplk4TjluS/view?usp=sharing" target="_blank"><img src="img//pdf.svg" width="32" height="28" alt="PDF Icon"></a>
+> <a href="https://drive.google.com/file/d/1_3OoqmrL6cx5-1rj8CkpQKrplk4TjluS/view?usp=sharing" target="_blank"><img src="img/pdf.svg" width="32" height="28" alt="PDF Icon"></a>
 
 ---
 
